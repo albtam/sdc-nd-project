@@ -1,4 +1,1 @@
-# sdc-nd-project
-Self-Driving Car Nanodegree Projects @Udacity
-
-Each project gets its own branch
+# Self-Driving Car Nanodegree @Udacity - Project 1: Detect Lane Lines
